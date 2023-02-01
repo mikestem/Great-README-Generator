@@ -20,6 +20,18 @@
   ## [Usage](#table-of-contents)
   Once in VS Code, you will want to open index.js in an Integrated Terminal. Type in "Node index.js" and hit Enter. From there you will be asked a series of prompts/questions. Your answers are what is going to appear on the README so make sure to answer them thoroughly will all the information you want the user to see. After all information is entered a README.md will be generated! You will be able to see the code and if you open a preview you will be able to see what the README looks like.
   
+  Terminal Prompts/Questions 
+
+  ![screenshot](./terminalScreenshot.png)
+
+  README Code Example
+
+  ![screenshot](./README-test.png)
+
+  Open Preview in VS Code
+  
+  ![screenshot](./preview-test.png)
+  
   ## [license](#table-of-contents)
   MIT License
 
